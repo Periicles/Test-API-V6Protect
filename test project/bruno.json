@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "test project",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

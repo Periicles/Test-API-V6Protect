@@ -1,0 +1,30 @@
+[
+    {
+        "id": "64b5626b-4d07-426d-8e05-bb1c57bf172a",
+        "name": "Lampe de bureau",
+        "description": "Lampe pour le bureau.",
+        "price": 15,
+        "availableQuantity": 50
+    },
+    {
+        "id": "92d8d7cd-6af1-4b4b-8f7b-66c57815b897",
+        "name": "Stylo bleu",
+        "description": "Un stylo bille à encre bleue, idéal pour l’écriture quotidienne.",
+        "price": 1.5,
+        "availableQuantity": 120
+    },
+    {
+        "id": "69b26be9-6dc6-4502-b341-25899884c1d1",
+        "name": "Cahier A4",
+        "description": "Cahier format A4 avec 100 pages lignées.",
+        "price": 3.2,
+        "availableQuantity": 45
+    },
+    {
+        "id": "82f70dca-aa8f-468d-a49f-d875a8863251",
+        "name": "Sac à dos",
+        "description": "Sac à dos résistant, parfait pour l’école ou le travail.",
+        "price": 25,
+        "availableQuantity": 15
+    }
+]
